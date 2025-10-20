@@ -21,5 +21,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Elevetune"
+rootProject.name = "Elevatune"
 include(":app")

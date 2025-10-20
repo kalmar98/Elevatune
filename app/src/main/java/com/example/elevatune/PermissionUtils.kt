@@ -1,4 +1,4 @@
-package com.example.elevetune
+package com.example.elevatune
 
 import android.app.Activity
 import android.content.pm.PackageManager

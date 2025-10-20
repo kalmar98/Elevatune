@@ -1,4 +1,4 @@
-package com.example.elevetune.ui.theme
+package com.example.elevatune.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.elevetune
+package com.example.elevatune
 
 import org.junit.Test
 

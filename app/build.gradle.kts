@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.elevetune"
+    namespace = "com.example.elevatune"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.elevetune"
+        applicationId = "com.example.elevatune"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -55,9 +55,6 @@ dependencies {
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.media3.ui)
 
-    // TarsosDSP for pitch detection
-    implementation(libs.core)
-    implementation(libs.jvm)
     // Coroutines
     implementation(libs.kotlinx.coroutines.android)
 
